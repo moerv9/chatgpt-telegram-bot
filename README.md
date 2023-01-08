@@ -6,7 +6,8 @@ The package to interact with ChatGPT is from [here](https://github.com/acheong08
 # Currently working on...
 
 - [X] : Run ChatGPT in Telegram locally
-- [ ] : Let multiple people join with the same
+- [X] : Let multiple people join with the same
+- [ ] : Write article on Medium
 - [ ] : Run ChatGPT in Telegram on a server
 
 
