@@ -17,6 +17,7 @@ bot = AsyncTeleBot(BOT_TOKEN)
 chatbot = Chatbot(
     {"session_token": config["SESSION_TOKEN"]}, conversation_id=None, parent_id=None
 )
+print("Chatbot & TeleBot initialized ")
 
 # define a message handler to send a message when the command /start is issued
 @bot.message_handler(commands=["start", "hello"])

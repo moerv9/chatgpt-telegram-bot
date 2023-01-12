@@ -1,4 +1,6 @@
 {
     "session_token": "< PUT TOKEN HERE >",
-    "accept_language": "en-US,en"
+    "accept_language": "en-US,en",
+    "driver_exec_path": "/usr/bin/chromedriver",
+    "browser_exec_path": "/usr/bin/google-chrome"
 }
